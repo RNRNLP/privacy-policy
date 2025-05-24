@@ -1,6 +1,7 @@
 # プライバシーポリシー
 
 本アプリ「trend_analytics」は、Pinterestデータのトレンドを分析する目的で開発されました。
+このプライバシーポリシーは「rnrnlp（Ryosei Nakashima）」によって管理されています。
 
 運営者名：Ryosei  
 メール：ryosei@example.com  
